@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Murad
 
-<img src="https://avatars.githubusercontent.com/u/53907160?v=4" width="120" align="right" />
-
 ## 🇬🇧 About me
 
 Frontend-focused Fullstack Engineer with strong experience in building real-world web applications.
