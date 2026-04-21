@@ -73,6 +73,7 @@ Currently improving my fullstack engineering skills with focus on:
 
 - LinkedIn: https://github.com/murad-proger
 - Email: murad-iusifov@gmail.com
+- Telegram: t.me/murad_adg
 
 ---
 
