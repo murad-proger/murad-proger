@@ -62,5 +62,5 @@ A full e-commerce marketplace system for used cars, built as a full product ecos
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/murad-adigezalov-a74245199
-- Email: murad-iusifov@gmail.com
+- Email: muradiusifov@gmail.com
 - Telegram: https://t.me/murad_adg
