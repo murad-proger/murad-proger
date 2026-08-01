@@ -1,66 +1,111 @@
-# 👋 Hi, I'm Murad
+# 👋 Hi, I'm Murad Adigezalov
 
-## About me
+Frontend Developer with 5+ years of commercial experience building web applications using **React**, **Next.js**, and **TypeScript**.
 
-I build **e-commerce and marketplace systems end-to-end**, from UI to backend logic.
+Throughout my career, I've worked on more than **50 commercial projects**, developing user interfaces, maintaining legacy codebases, and delivering production-ready solutions. As the sole Frontend Developer at Oweb Solutions, I collaborated directly with designers, project managers, and clients, taking ownership of technical decisions, feature implementation, code quality, and delivery.
 
-Frontend-focused Fullstack Engineer with strong experience in building real-world web applications.
-
-I started as a frontend developer working with commercial websites and CMS platforms (WordPress, Bitrix, ModX, Tilda), focusing on layout development, refactoring, and migration of legacy systems.
-
-Currently, I focus on React and Next.js, building fullstack applications with authentication, database integration, and real product logic.
+Currently, I'm expanding my backend expertise by building modern full-stack applications with Next.js, Prisma, PostgreSQL, Auth.js, TanStack Query, React Hook Form, and Zod.
 
 ---
 
-## 🧠 Core Skills
+## 💻 Tech Stack
 
-- React / Next.js (App Router)
-- TypeScript
-- JavaScript (ES6+)
-- Tailwind CSS
-- Supabase (PostgreSQL)
-- JWT Authentication
-- REST API integration
-- Git / GitHub
-- CMS (WordPress, Bitrix, ModX, Tilda)
+### Frontend
+
+* React
+* Next.js (App Router)
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3 / SCSS
+* Tailwind CSS
+
+### Backend & Database
+
+* Node.js
+* Next.js Route Handlers
+* Prisma ORM
+* PostgreSQL
+* Auth.js
+* REST API
+
+### Tools
+
+* Git & GitHub
+* Docker
+* Figma
+
+### CMS
+
+* WordPress
+* Bitrix
+* MODX
+* Tilda
+* Elementor
 
 ---
 
-## 🚗 Featured Project — Car Marketplace Ecosystem
+## 🚀 Featured Projects
 
-A full e-commerce marketplace system for used cars, built as a full product ecosystem.
+### Car Marketplace
 
-### 🧩 Frontend (React)
-- Advanced filtering (brand, price, year, engine, body type)
-- Sorting system (multiple parameters)
-- Favorites system
-- Cart functionality
-- Checkout flow
-- UI modes (grid / list view)
+A commercial-style marketplace application built with React and Next.js, featuring authentication, role-based access, admin functionality, product management, and a complete purchasing workflow.
 
-### ⚙️ Fullstack (Next.js + Supabase)
-- JWT authentication (login / registration)
-- Role-based access (USER / ADMIN)
-- Supabase PostgreSQL database
-- Admin panel with full CRUD (cars management)
-- Orders system with lifecycle tracking
-- Deployment on Vercel
+Key features include:
 
-👉 End-to-end implementation of a real e-commerce product system.
+* Authentication and authorization
+* Admin dashboard with CRUD operations
+* Product catalog with filtering and sorting
+* Shopping cart and checkout flow
+* PostgreSQL database integration
+* Responsive UI
+* Deployment on Vercel
+
+> A project focused on applying production-ready architecture and modern frontend development practices.
 
 ---
 
-## 📌 Experience
+### BookNest *(currently in development)*
 
-- Built commercial websites in production environments
-- Worked with CMS platforms and legacy systems
-- UI refactoring and migration projects
-- Built reusable frontend components and systems
+A production-grade bookstore built with the Next.js App Router.
+
+Current technologies:
+
+* React
+* Next.js
+* TypeScript
+* Prisma ORM
+* PostgreSQL
+* Auth.js
+* TanStack Query
+* React Hook Form
+* Zod
+
+The project is being developed to deepen my expertise in modern full-stack architecture and backend development while maintaining a strong frontend focus.
+
+---
+
+## 💼 Commercial Experience
+
+* 5+ years of commercial frontend development
+* 50+ delivered client projects
+* Sole Frontend Developer at Oweb Solutions
+* Legacy code refactoring and modernization
+* Migration of selected project modules from jQuery to React
+* Code reviews and mentoring
+* Collaboration with designers, managers, and clients
+* Technical estimation and feature planning
+
+---
+
+## 🎯 What I Enjoy
+
+I enjoy building maintainable, scalable, and user-friendly web applications with clean architecture, reusable components, and modern development practices.
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/murad-adigezalov-a74245199
-- Email: muradiusifov@gmail.com
-- Telegram: https://t.me/murad_adg
+* LinkedIn: linkedin.com/in/murad-adigezalov-a74245199
+* Telegram: @murad_adg
+* Email: [muradiusifov@gmail.com](mailto:muradiusifov@gmail.com)
