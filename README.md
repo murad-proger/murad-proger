@@ -1,14 +1,30 @@
-# 👋 Hi, I'm Murad Adigezalov
+# Murad Adigezalov
 
-Frontend Developer with 5+ years of commercial experience building web applications using **React**, **Next.js**, and **TypeScript**.
+**Frontend Developer** • **React** • **Next.js** • **TypeScript**
 
-Throughout my career, I've worked on more than **50 commercial projects**, developing user interfaces, maintaining legacy codebases, and delivering production-ready solutions. As the sole Frontend Developer at Oweb Solutions, I collaborated directly with designers, project managers, and clients, taking ownership of technical decisions, feature implementation, code quality, and delivery.
+Frontend Developer with **5+ years of commercial experience** building modern web applications. Throughout my career, I've contributed to **50+ commercial projects**, developing user interfaces, modernizing legacy codebases, and delivering production-ready solutions.
 
-Currently, I'm expanding my backend expertise by building modern full-stack applications with Next.js, Prisma, PostgreSQL, Auth.js, TanStack Query, React Hook Form, and Zod.
+As the sole Frontend Developer at **Oweb Solutions**, I was responsible for frontend architecture, feature implementation, technical estimation, code quality, and collaboration with designers, project managers, and clients.
+
+Currently, I'm expanding my backend expertise by building modern full-stack applications with the Next.js ecosystem while maintaining a frontend-first focus.
 
 ---
 
-## 💻 Tech Stack
+## 💼 Experience Highlights
+
+* 5+ years of commercial frontend development
+* Sole Frontend Developer at Oweb Solutions
+* 50+ delivered commercial projects
+* React, Next.js, TypeScript, JavaScript
+* Legacy code refactoring and modernization
+* Migration of project modules from jQuery to React
+* Code reviews and mentoring
+* Technical estimation and feature planning
+* Collaboration with designers, project managers, and clients
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
 
@@ -20,7 +36,7 @@ Currently, I'm expanding my backend expertise by building modern full-stack appl
 * CSS3 / SCSS
 * Tailwind CSS
 
-### Backend & Database
+### Backend
 
 * Node.js
 * Next.js Route Handlers
@@ -31,7 +47,8 @@ Currently, I'm expanding my backend expertise by building modern full-stack appl
 
 ### Tools
 
-* Git & GitHub
+* Git
+* GitHub
 * Docker
 * Figma
 
@@ -45,31 +62,13 @@ Currently, I'm expanding my backend expertise by building modern full-stack appl
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Focus
 
-### Car Marketplace
+I'm currently building **BookNest**, a production-grade bookstore application with the Next.js App Router.
 
-A commercial-style marketplace application built with React and Next.js, featuring authentication, role-based access, admin functionality, product management, and a complete purchasing workflow.
+The project is focused on applying modern engineering practices, including scalable architecture, authentication, database design, form validation, API development, and clean code principles.
 
-Key features include:
-
-* Authentication and authorization
-* Admin dashboard with CRUD operations
-* Product catalog with filtering and sorting
-* Shopping cart and checkout flow
-* PostgreSQL database integration
-* Responsive UI
-* Deployment on Vercel
-
-> A project focused on applying production-ready architecture and modern frontend development practices.
-
----
-
-### BookNest *(currently in development)*
-
-A production-grade bookstore built with the Next.js App Router.
-
-Current technologies:
+Current stack:
 
 * React
 * Next.js
@@ -81,26 +80,36 @@ Current technologies:
 * React Hook Form
 * Zod
 
-The project is being developed to deepen my expertise in modern full-stack architecture and backend development while maintaining a strong frontend focus.
+---
+
+## 📌 Featured Project
+
+### Car Marketplace
+
+A marketplace application built with React and Next.js that demonstrates a complete e-commerce workflow.
+
+Highlights include:
+
+* Authentication and role-based access
+* Administrative dashboard with CRUD operations
+* Product catalog with filtering and sorting
+* Shopping cart and checkout flow
+* PostgreSQL database integration
+* Responsive user interface
 
 ---
 
-## 💼 Commercial Experience
+## 🎯 Engineering Principles
 
-* 5+ years of commercial frontend development
-* 50+ delivered client projects
-* Sole Frontend Developer at Oweb Solutions
-* Legacy code refactoring and modernization
-* Migration of selected project modules from jQuery to React
-* Code reviews and mentoring
-* Collaboration with designers, managers, and clients
-* Technical estimation and feature planning
+I enjoy building software that is:
 
----
+* Maintainable
+* Scalable
+* User-focused
+* Easy to extend
+* Well-structured
 
-## 🎯 What I Enjoy
-
-I enjoy building maintainable, scalable, and user-friendly web applications with clean architecture, reusable components, and modern development practices.
+I believe good software is not only about implementing features, but also about writing clean, understandable, and reliable code.
 
 ---
 
