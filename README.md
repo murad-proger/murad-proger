@@ -1,4 +1,4 @@
-# Murad Adigezalov
+# Murad Adigozalov
 
 **Frontend Developer** • **React** • **Next.js** • **TypeScript**
 
