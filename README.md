@@ -2,25 +2,37 @@
 
 **Frontend Developer** • **React** • **Next.js** • **TypeScript**
 
-Frontend Developer with **5+ years of commercial experience** building modern web applications. Throughout my career, I've contributed to **50+ commercial projects**, developing user interfaces, modernizing legacy codebases, and delivering production-ready solutions.
+Frontend Developer with **5+ years of commercial experience** and **50+ delivered projects**, primarily e-commerce platforms, corporate websites, and web applications.
 
-As the sole Frontend Developer at **Oweb Solutions**, I was responsible for frontend architecture, feature implementation, technical estimation, code quality, and collaboration with designers, project managers, and clients.
+Worked as the **sole Frontend Developer on 30+ projects**, taking ownership of frontend architecture, implementation, technical decisions, technical estimation, and collaboration with designers, backend developers, project managers, and clients.
 
-Currently, I'm expanding my backend expertise by building modern full-stack applications with the Next.js ecosystem while maintaining a frontend-first focus.
+My primary focus is frontend development with **React, Next.js, TypeScript, and modern JavaScript**. I also build full-stack applications with the Next.js ecosystem and continuously expand my backend expertise.
 
 ---
 
 ## 💼 Experience Highlights
 
-* 5+ years of commercial frontend development
-* Sole Frontend Developer at Oweb Solutions
-* 50+ delivered commercial projects
-* React, Next.js, TypeScript, JavaScript
-* Legacy code refactoring and modernization
-* Migration of project modules from jQuery to React
-* Code reviews and mentoring
+* **5+ years** of commercial frontend development
+* **50+ commercial projects** delivered
+* **30+ projects** as the sole Frontend Developer
+* **20+ projects** built from scratch
+* Frontend architecture and technical decision-making
 * Technical estimation and feature planning
-* Collaboration with designers, project managers, and clients
+* Migration of legacy **jQuery modules to React**
+* REST API integration and client-side business logic
+* Technical SEO implementation
+* Performance and accessibility optimization
+* Pull request reviews and code quality practices
+* Mentored a Frontend Intern
+* Advised designers on frontend constraints, UI patterns, and reusable components
+* Direct collaboration with clients, designers, backend developers, and project managers
+
+### Selected Results
+
+* Improved **Google PageSpeed Performance for Rozetki.su from 57 to 92**
+* Built and optimized a company website from scratch, achieving **94% Performance** and **96% Accessibility**
+* Reduced CSS by **700+ lines** during frontend optimization
+* Implemented technical SEO across commercial projects, including metadata, semantic HTML, breadcrumbs, and Schema.org structured data
 
 ---
 
@@ -33,24 +45,47 @@ Currently, I'm expanding my backend expertise by building modern full-stack appl
 * TypeScript
 * JavaScript (ES6+)
 * HTML5
-* CSS3 / SCSS
+* CSS3
+* SCSS
+* CSS Modules
 * Tailwind CSS
 
-### Backend
+### UI & Design
 
-* Node.js
-* Next.js Route Handlers
+* Design Systems
+* Ant Design
+* Bootstrap
+* Radix UI
+* shadcn/ui
+* Figma
+
+### State Management
+
+* Redux Toolkit
+* TanStack Query
+
+### Forms & Validation
+
+* React Hook Form
+* Zod
+
+### Next.js & Server-side
+
+* Server Components
+* Server Actions
+* Route Handlers
+* API Routes
+* SSR
+
+### Backend & Database
+
+* Next.js
 * Prisma ORM
 * PostgreSQL
+* Supabase
 * Auth.js
 * REST API
-
-### Tools
-
-* Git
-* GitHub
-* Docker
-* Figma
+* Axios
 
 ### CMS
 
@@ -59,16 +94,48 @@ Currently, I'm expanding my backend expertise by building modern full-stack appl
 * MODX
 * Tilda
 * Elementor
+* PHP template modifications
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Vercel
+* Vite
+
+### Accessibility & Web Standards
+
+* Web Accessibility
+* WCAG
+* Semantic HTML
+* ARIA
+* Technical SEO
+* Schema.org
 
 ---
 
 ## 🚀 Current Focus
 
-I'm currently building **BookNest**, a production-grade bookstore application with the Next.js App Router.
+### BookNest
 
-The project is focused on applying modern engineering practices, including scalable architecture, authentication, database design, form validation, API development, and clean code principles.
+Currently building **BookNest**, a full-stack bookstore application with the **Next.js App Router**.
 
-Current stack:
+The project is focused on applying modern engineering practices across the frontend and backend, including:
+
+* Scalable application architecture
+* Authentication and authorization
+* PostgreSQL database design
+* Prisma ORM
+* CRUD operations
+* REST API development
+* Form validation
+* Client-side data fetching and caching
+* Image management
+* Server Actions
+* Clean and maintainable code
+
+**Current stack:**
 
 * React
 * Next.js
@@ -79,42 +146,90 @@ Current stack:
 * TanStack Query
 * React Hook Form
 * Zod
+* Docker
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### Car Marketplace
+### Used Cars Marketplace
 
-A marketplace application built with React and Next.js that demonstrates a complete e-commerce workflow.
+**Next.js • React • TypeScript • Prisma • PostgreSQL • Supabase • Auth.js • Tailwind CSS**
 
-Highlights include:
+🔗 https://used-cars-next.vercel.app
 
-* Authentication and role-based access
-* Administrative dashboard with CRUD operations
-* Product catalog with filtering and sorting
-* Shopping cart and checkout flow
-* PostgreSQL database integration
-* Responsive user interface
+A full-stack marketplace application built with the Next.js App Router.
+
+**Highlights:**
+
+* Authentication
+* Role-based access control
+* Admin dashboard
+* CRUD operations
+* Product catalog
+* Shopping cart
+* PostgreSQL database with Prisma ORM
+* Responsive UI
+* Deployment on Vercel
 
 ---
 
-## 🎯 Engineering Principles
+### Car Marketplace UI System
 
-I enjoy building software that is:
+**React • Redux Toolkit • TypeScript • React Router • REST API • Vite**
+
+🔗 https://murad-proger.github.io/car-marketplace-frontend
+
+A frontend-focused marketplace application demonstrating scalable UI architecture and client-side state management.
+
+**Highlights:**
+
+* Filtering and sorting
+* URL state synchronization
+* Reusable UI components
+* REST API integration
+* Shopping cart
+* Checkout functionality
+* Responsive interface
+
+---
+
+## ♿ Accessibility & Performance
+
+I pay attention to building interfaces that are not only functional, but also **performant, accessible, and SEO-friendly**.
+
+My commercial experience includes:
+
+* Web Accessibility and WCAG principles
+* Semantic HTML
+* ARIA
+* Google PageSpeed optimization
+* Image lazy loading
+* JavaScript optimization
+* CSS optimization
+* Technical SEO
+* Schema.org structured data
+
+---
+
+## 🧩 Development Approach
+
+I focus on building software that is:
 
 * Maintainable
 * Scalable
-* User-focused
-* Easy to extend
 * Well-structured
+* Easy to extend
+* Performance-oriented
+* Accessible
 
-I believe good software is not only about implementing features, but also about writing clean, understandable, and reliable code.
+I value clear architecture, reusable components, predictable state management, and code that is easy for other developers to understand and maintain.
 
 ---
 
 ## 📫 Contact
 
-* LinkedIn: linkedin.com/in/murad-adigezalov-a74245199
-* Telegram: @murad_adg
-* Email: [muradiusifov@gmail.com](mailto:muradiusifov@gmail.com)
+* **LinkedIn:** https://linkedin.com/in/murad-adigezalov-a74245199
+* **GitHub:** https://github.com/murad-proger
+* **Telegram:** @murad_adg
+* **Email:** [muradiusifov@gmail.com](mailto:muradiusifov@gmail.com)
